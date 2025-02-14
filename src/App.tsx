@@ -163,7 +163,7 @@ function App() {
   return (
     <div className="app-container">
       <audio ref={audioRef} preload="auto">
-        <source src="/public/music.mp3" type="audio/mpeg" />
+        <source src="/music.mp3" type="audio/mpeg" />
       </audio>
       {/* Optional UI indicator for audio status */}
       {!audioLoaded && (
