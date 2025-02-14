@@ -64,7 +64,7 @@ function App() {
       image: "/character/three.png",
     },
     {
-      content: `The whole month was full or roller coaster, the trust that we have gained on each other`,
+      content: `The whole month was full of roller coaster, the trust that we have gained on each other`,
       image: "/character/four.png",
     },
     {
@@ -76,7 +76,7 @@ function App() {
       image: "/character/six.png",
     },
     {
-      content: "Will you be my Valentine forvever?",
+      content: "Will you be my Valentine forever?",
       image: "/character/seven.png",
     },
   ];
