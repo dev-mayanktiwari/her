@@ -171,7 +171,7 @@ function App() {
           Click anywhere to play music 🎵
         </div>
       )}
-      <FloatingHearts />;
+      <FloatingHearts />
       {sheWantsToBeMyValentine && (
         <motion.div
           initial={{ opacity: 0 }}
